@@ -7,7 +7,6 @@ import img from "../public/img.jpeg";
 const index = () => {
   return (
     <>
-      <Navbar />
       <Main />
     </>
   );
